@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-|* B.S. Electrical & Computer Engineering, Seoul National University |Feb. 2021|
+|* B.S. Electrical & Computer Engineering, Seoul National University|Feb. 2021|
 |:---|---:|
 |* M.S. & Ph.D. Electrical & Computer Engineering, Seoul National University|Mar. 2021 - Present|
+{: .table}
 
 Work experience
 ======
