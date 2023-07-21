@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hojun Jang"
   avatar           : "profile.png"
-  bio              : "This is a random text -- this should change frontend"
-  location         : "Location"
+  bio              : "I'm a Ph.D. candidate in SNU 3DV Lab"
+  location         : "Seoul National University"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=_JBQVsIAAAAJ&hl=ko"
+  email            : "j12040208@snu.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "hojunJang17"
   google_plus      :
   keybase          :
   instagram        :
