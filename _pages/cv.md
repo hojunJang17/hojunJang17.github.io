@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. Electrical & Computer Engineering, Seoul National University, Feb. 2021
-* M.S. & Ph.D. in Jekyll, GitHub University, Mar. 2021 - Present
+* B.S. Electrical & Computer Engineering, Seoul National University, Feb. 2021{: .text-right}
+* M.S. & Ph.D. Electrical & Computer Engineering, Seoul National University, Mar. 2021 - Present{: .text-right}
 
 Work experience
 ======
-* Summer 2019: Research Intern (LG Electronics)
-  * Automatic Korean Spacing using BERT
-  * Contextual Language Data Augmentation using BERT
+* Research Intern (LG Electronics) : 2019 Summer
+  ** Automatic Korean Spacing using BERT
+  ** Contextual Language Data Augmentation using BERT
   
 Skills
 ======
@@ -43,9 +43,8 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * 3D Computer Vision Track for AI Experts (Samsung) (T.A.) : 2022 Summer
+  * Linear Algebra for Electrical Systems (T.A.) : 2022 Fall
   
 Service and leadership
 ======
