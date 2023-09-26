@@ -2,14 +2,23 @@
 title: "LDL: Line Distance Functions for Panoramic Localization"
 collection: publications
 permalink: /publication/LDL
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'We introduce a simple pose search method that operates on 2D, 3D line segments based on distance functions, which attains competitive performance with a very short runtime.'
 date: 2023-10-05
 venue: 'International Conference on Computer Vision (ICCV)'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: ''
+citation: 'Junho Kim, Changwoon Choi, Hojun Jang, and Young Min Kim, LDL: Line Distance Functions for Panoramic Localization, in <i>Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)</i>, 2023.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+We introduce a simple pose search method that operates on 2D, 3D line segments based on distance functions, which attains competitive performance with a very short runtime.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here]()
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+'''
+@InProceedings{Kim_2023_ICCV,
+    author    = {Kim, Junho and Choi, Changwoon and Jang, Hojun and Kim, Young Min},
+    title     = {LDL: Line Distance Functions for Panoramic Localization},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {}
+}
+'''
