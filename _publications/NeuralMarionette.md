@@ -1,7 +1,7 @@
 ---
 title: "Neural Marionette: Unsupervised Learning of Motion Skeleton and Latent Dynamics from Volumetric Video"
 collection: publications
-permalink: /publication/NeuralMarionette
+permalink: /publications/NeuralMarionette
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2022
 venue: 'AAAI Conference on Artifitial Intelligence'
