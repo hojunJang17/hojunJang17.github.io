@@ -2,7 +2,7 @@
 title: "Dynamic Mesh Recovery from Partial Point Cloud Sequence"
 collection: publications
 permalink: /publications/DMR
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: ''
 date: 2023-10-06
 venue: 'International Conference on Computer Vision (ICCV)'
 paperurl: ''

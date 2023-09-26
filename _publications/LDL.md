@@ -2,7 +2,7 @@
 title: "LDL: Line Distance Functions for Panoramic Localization"
 collection: publications
 permalink: /publication/LDL
-excerpt: 'We introduce a simple pose search method that operates on 2D, 3D line segments based on distance functions, which attains competitive performance with a very short runtime.'
+excerpt: ''
 date: 2023-10-05
 venue: 'International Conference on Computer Vision (ICCV)'
 paperurl: ''

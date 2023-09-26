@@ -2,11 +2,11 @@
 title: "CPO: Change Robust Panorama to Point Cloud Localization"
 collection: publications
 permalink: /publication/CPO
-excerpt: 'Constructing score maps in 2D, 3D that reflect regional color consistencies enable robust localization amidst scene changes.'
+excerpt: ''
 date: 2022-01-10
 venue: 'European Conference on Computer Vision (ECCV)'
-paperurl: 'https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1567_ECCV_2022_paper.php'
-citation: 'Junho Kim, Hojun Jang, Changwoon Choi, and Young Min Kim, <i>European Conference on Computer Vision</i>, 2022.'
+paperurl: ''
+citation: 'Junho Kim, Hojun Jang, Changwoon Choi, and Young Min Kim, CPO: Change Robust Panorama to Point Cloud Localization, <i>European Conference on Computer Vision</i>, 2022.'
 ---
 Constructing score maps in 2D, 3D that reflect regional color consistencies enable robust localization amidst scene changes.
 

@@ -2,10 +2,10 @@
 title: "Neural Marionette: Unsupervised Learning of Motion Skeleton and Latent Dynamics from Volumetric Video"
 collection: publications
 permalink: /publications/NeuralMarionette
-excerpt: 'This work is to extract skeletal structure from volumetric observations and to learn motion dynamics from the detected skeletal motions in a fully unsupervised manner.'
+excerpt: ''
 date: 2022-10-01
 venue: 'AAAI Conference on Artifitial Intelligence'
-paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/19882'
+paperurl: ''
 citation: 'Jinseok Bae, Hojun Jang, Cheol-Hui Min, Hyungun Choi, and Young Min Kim, in <i>Proceedings of the AAAI Conference on Artificial Intelligence</i>, 2022.'
 ---
 This work is to extract skeletal structure from volumetric observations and to learn motion dynamics from the detected skeletal motions in a fully unsupervised manner.
