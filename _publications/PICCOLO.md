@@ -13,7 +13,7 @@ By minimizing a novel loss function that penalizes color discrepancies in 2D and
 
 [Download paper here](https://openaccess.thecvf.com/content/ICCV2021/html/Kim_PICCOLO_Point_Cloud-Centric_Omnidirectional_Localization_ICCV_2021_paper.html)
 
-```
+<pre>
 @InProceedings{Kim_2021_ICCV,
     author    = {Kim, Junho and Choi, Changwoon and Jang, Hojun and Kim, Young Min},
     title     = {PICCOLO: Point Cloud-Centric Omnidirectional Localization},
@@ -22,4 +22,4 @@ By minimizing a novel loss function that penalizes color discrepancies in 2D and
     year      = {2021},
     pages     = {3313-3323}
 }
-```
+</pre>
