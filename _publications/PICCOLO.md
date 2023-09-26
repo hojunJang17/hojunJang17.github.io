@@ -2,14 +2,14 @@
 title: "PICCOLO: Point Cloud-centric Omnidirectional Localization"
 collection: publications
 permalink: /publication/PICCOLO
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is omnidirectional visual localization. By minimizing a novel loss function that penalizes color discrepancies in 2D and 3D, effective localization can be performed using panorama images without learning.'
 date: 2021-01-01
 venue: 'International Conference on Computer Vision (ICCV)'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://openaccess.thecvf.com/content/ICCV2021/html/Kim_PICCOLO_Point_Cloud-Centric_Omnidirectional_Localization_ICCV_2021_paper.html'
+citation: 'Junho Kim, Changwoon Choi, Hojun Jang, and Young Min Kim, in <i>Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)<\i>, 2021.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is omnidirectional visual localization. By minimizing a novel loss function that penalizes color discrepancies in 2D and 3D, effective localization can be performed using panorama images without learning.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://openaccess.thecvf.com/content/ICCV2021/html/Kim_PICCOLO_Point_Cloud-Centric_Omnidirectional_Localization_ICCV_2021_paper.html)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Junho Kim, Changwoon Choi, Hojun Jang, and Young Min Kim, in <i>Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)<\i>, 2021.

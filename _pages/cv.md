@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. Electrical & Computer Engineering, Seoul National University, Feb. 2021
-* M.S. & Ph.D. Electrical & Computer Engineering, Seoul National University, Mar. 2021 - Present
+* Feb. 2021, B.S. Electrical & Computer Engineering, Seoul National University
+* Mar. 2021 - Present, M.S. & Ph.D. Electrical & Computer Engineering, Seoul National University
 
 Work experience
 ======
@@ -30,5 +30,5 @@ Publications
 
 Teaching
 ======
-  * 3D Computer Vision Track for AI Experts (Samsung) (T.A.) : 2022 Summer
-  * Linear Algebra for Electrical Systems (T.A.) : 2022 Fall
+  * 2022 Summer, 3D Computer Vision Track for AI Experts (Samsung) (T.A.)
+  * 2022 Fall, Linear Algebra for Electrical Systems (T.A.)
