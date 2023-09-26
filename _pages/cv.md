@@ -16,11 +16,13 @@ Education
 * 2021 - Present
   * M.S. & Ph.D. Electrical & Computer Engineering, Seoul National University
 
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
 
 Work experience
 ======
@@ -28,6 +30,7 @@ Work experience
   * Research Intern (LG Electronics)
     * Automatic Korean Spacing using BERT
     * Contextual Language Data Augmentation using BERT
+
 
 Teaching
 ======
