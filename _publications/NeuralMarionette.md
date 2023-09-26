@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-10-01
 venue: 'AAAI Conference on Artifitial Intelligence'
 paperurl: ''
-citation: 'Jinseok Bae, Hojun Jang, Cheol-Hui Min, Hyungun Choi, and Young Min Kim, in <i>Proceedings of the AAAI Conference on Artificial Intelligence</i>, 2022.'
+citation: 'Jinseok Bae, <br>Hojun Jang</br>, Cheol-Hui Min, Hyungun Choi, and Young Min Kim, in <i>Proceedings of the AAAI Conference on Artificial Intelligence</i>, 2022.'
 ---
 This work is to extract skeletal structure from volumetric observations and to learn motion dynamics from the detected skeletal motions in a fully unsupervised manner.
 

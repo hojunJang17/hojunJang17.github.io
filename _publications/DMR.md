@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-10-06
 venue: 'International Conference on Computer Vision (ICCV)'
 paperurl: ''
-citation: 'Hojun Jang, Minkwan Kim, Jinseok Bae, and Young Min Kim, Dynamic Mesh Recovery from Partial Point Cloud Sequence, in <i>Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)</i>, 2023.'
+citation: '<br>Hojun Jang</br>, Minkwan Kim, Jinseok Bae, and Young Min Kim, Dynamic Mesh Recovery from Partial Point Cloud Sequence, in <i>Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)</i>, 2023.'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
