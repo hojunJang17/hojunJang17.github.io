@@ -12,7 +12,7 @@ This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here]()
 
-'''
+```
 @InProceedings{Jang_2023_ICCV,
     author    = {Jang, Hojun and Kim, Minkwan and Bae, Jinseok and Kim, Young Min},
     title     = {Dynamic Mesh Recovery from Partial Point Cloud Sequence},
@@ -21,4 +21,4 @@ This paper is about the number 3. The number 4 is left for future work.
     year      = {2023},
     pages     = {}
 }
-'''
+```

@@ -12,7 +12,7 @@ We introduce a simple pose search method that operates on 2D, 3D line segments b
 
 [Download paper here]()
 
-'''
+```
 @InProceedings{Kim_2023_ICCV,
     author    = {Kim, Junho and Choi, Changwoon and Jang, Hojun and Kim, Young Min},
     title     = {LDL: Line Distance Functions for Panoramic Localization},
@@ -21,4 +21,4 @@ We introduce a simple pose search method that operates on 2D, 3D line segments b
     year      = {2023},
     pages     = {}
 }
-'''
+```

@@ -12,7 +12,7 @@ This work is to extract skeletal structure from volumetric observations and to l
 
 [Download paper here](https://ojs.aaai.org/index.php/AAAI/article/view/19882)
 
-'''
+```
 @inproceedings{bae2022neural,
   title = {Neural marionette: Unsupervised learning of motion skeleton and latent dynamics from volumetric video},
   author = {Bae, Jinseok and Jang, Hojun and Min, Cheol-Hui and Choi, Hyungun and Kim, Young Min},
@@ -22,4 +22,4 @@ This work is to extract skeletal structure from volumetric observations and to l
   pages = {86--94},
   year = {2022},
 }
-'''
+```

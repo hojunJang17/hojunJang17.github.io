@@ -12,7 +12,7 @@ Constructing score maps in 2D, 3D that reflect regional color consistencies enab
 
 [Download paper here](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1567_ECCV_2022_paper.php)
 
-'''
+```
 @inproceedings{kim2022cpo,
     title={CPO: Change-Robust Panorama to Point Cloud Localization},
     author={Kim, Junho and Jang, Hojun 
@@ -21,4 +21,4 @@ Constructing score maps in 2D, 3D that reflect regional color consistencies enab
     year={2022},
     organization={Springer}
 }
-'''
+```
