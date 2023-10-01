@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. & M.S. student at Seoul National University.
+I'm a 3rd year M.S. & Ph.D. student at Seoul National University.
