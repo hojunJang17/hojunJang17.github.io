@@ -31,6 +31,14 @@ Work experience
     * Automatic Korean Spacing using BERT
     * Contextual Language Data Augmentation using BERT
 
+Honors and Awards
+======
+* 2018 Spring
+  * Merit-based Scholarship (SNU)
+* 2019 - 2020
+  * Sinyang Cultral Foundation Scholarship (Full-Funding)
+* 2022 Fall
+  * University Outstanding T.A. Award
 
 Teaching
 ======
