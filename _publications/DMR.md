@@ -8,7 +8,7 @@ venue: 'International Conference on Computer Vision (ICCV)'
 paperurl: ''
 citation: '<b>Hojun Jang</b>, Minkwan Kim, Jinseok Bae, and Young Min Kim, Dynamic Mesh Recovery from Partial Point Cloud Sequence, in <i>Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)</i>, 2023.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Pretraining the motion kinematics from a large-scale dataset, and utilizing them can effectively lead to dynamic mesh recovery from partial point cloud sequence.
 
 [Download paper here]()
 
