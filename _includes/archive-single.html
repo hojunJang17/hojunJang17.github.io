@@ -14,13 +14,15 @@
 
 <div class="pub" style="display: inline-block; width: 100%; margin: 20px 0 20px 0">
   {% if post.teaser %}
+    <p>
     <img src=
       {% if post.teaser contains "://" %}
         "{{ teaser }}"
       {% else %}
         "{{ post.teaser | prepend: "/images/" | prepend: base_path }}"
       {% endif %}
-      />
+      style="width: 200px;"/>
+    </p>
   {% endif %}
   <!--
   <h2 class="archive__item-title" itemprop="headline">
