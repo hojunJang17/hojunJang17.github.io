@@ -7,7 +7,7 @@ date: 2021-01-01
 venue: 'International Conference on Computer Vision (ICCV)'
 paperurl: ''
 citation: 'Junho Kim, Changwoon Choi, <b>Hojun Jang</b>, and Young Min Kim, PICCOLO: Point Cloud-Centric Omnidirectional Localization, in <i>Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)</i>, 2021.'
-teaser: '/images/piccolo.png'
+teaser: 'piccolo.png'
 author: 'Junho Kim, Changwoon Choi, <b>Hojun Jang</b>, and Young Min Kim'
 ---
 By minimizing a novel loss function that penalizes color discrepancies in 2D and 3D, effective localization can be performed using panorama images without learning.
