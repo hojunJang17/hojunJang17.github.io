@@ -12,6 +12,15 @@
   {% assign title = post.title %}
 {% endif %}
 
+pubtit { font-weight: bold; font-size: large; overflow: hidden;}
+#gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
+#gridid .pub img { width: 20%; float: left; margin: 16px 22px 6px 0; border-radius: 5%; box-shadow: none; }
+@media only screen and (max-width: 768px) {
+	#gridid .pub img { width: 80%; position: relative; left: 10%; float: none; margin: 10px 0 10px 0; }
+}
+#homeid img { margin: 0 0 0 0; border-radius:5%; box-shadow: 0px 0px 0px #888888 }
+#picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
+#gridid .row { margin-bottom: 24px; }v
 <div class="pub" style="display: inline-block; width: 100%; margin: 20px 0 20px 0">
   {% if post.teaser %}
     <img src=
@@ -33,7 +42,7 @@
   -->
   <pubit>
     {% if post.link %}
-      <b><a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink" overflow="hidden"></i>Permalink</a></b>
+      <b><a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i>Permalink</a></b>
     {% else %}
       <b><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a></b>
     {% endif %}
