@@ -11,7 +11,7 @@ author: '<b>Hojun Jang</b>, Minkwan Kim, Jinseok Bae, and Young Min Kim'
 ---
 Pretraining the motion kinematics from a large-scale dataset, and utilizing them can effectively lead to dynamic mesh recovery from partial point cloud sequence.
 
-[Download paper here]()
+[Download paper here](https://openaccess.thecvf.com/content/ICCV2023/html/Jang_Dynamic_Mesh_Recovery_from_Partial_Point_Cloud_Sequence_ICCV_2023_paper.html)
 
 ```
 @InProceedings{Jang_2023_ICCV,
@@ -20,6 +20,6 @@ Pretraining the motion kinematics from a large-scale dataset, and utilizing them
     booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
     month     = {October},
     year      = {2023},
-    pages     = {}
+    pages     = {15074-15084}
 }
 ```

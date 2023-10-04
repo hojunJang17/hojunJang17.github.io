@@ -11,7 +11,7 @@ author: 'Junho Kim, Changwoon Choi, <b>Hojun Jang</b>, and Young Min Kim'
 ---
 We introduce a simple pose search method that operates on 2D, 3D line segments based on distance functions, which attains competitive performance with a very short runtime.
 
-[Download paper here]()
+[Download paper here](https://openaccess.thecvf.com/content/ICCV2023/html/Kim_LDL_Line_Distance_Functions_for_Panoramic_Localization_ICCV_2023_paper.html)
 
 ```
 @InProceedings{Kim_2023_ICCV,
@@ -20,6 +20,6 @@ We introduce a simple pose search method that operates on 2D, 3D line segments b
     booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
     month     = {October},
     year      = {2023},
-    pages     = {}
+    pages     = {17882-17892}
 }
 ```
