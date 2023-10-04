@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-10-01
 venue: 'AAAI Conference on Artifitial Intelligence'
 paperurl: ''
-citation: 'Jinseok Bae, <b>Hojun Jang</b>, Cheol-Hui Min, Hyungun Choi, and Young Min Kim, in <i>Proceedings of the AAAI Conference on Artificial Intelligence</i>, 2022.'
+citation: 'Jinseok Bae, <b>Hojun Jang</b>, Cheol-Hui Min, Hyungun Choi, and Young Min Kim, Neural Marionette: Unsupervised Learning of Motion Skeleton and Latent Dynamics from Volumetric Video, in <i>Proceedings of the AAAI Conference on Artificial Intelligence</i>, 2022.'
 author: 'Jinseok Bae, <b>Hojun Jang</b>, Cheol-Hui Min, Hyungun Choi, and Young Min Kim'
 teaser: 'marionette.gif'
 ---
