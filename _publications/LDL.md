@@ -14,7 +14,7 @@ We introduce a simple pose search method that operates on 2D, 3D line segments b
 
 [Download paper here](https://openaccess.thecvf.com/content/ICCV2023/html/Kim_LDL_Line_Distance_Functions_for_Panoramic_Localization_ICCV_2023_paper.html)
 
-```
+```bibtex
 @InProceedings{Kim_2023_ICCV,
     author    = {Kim, Junho and Choi, Changwoon and Jang, Hojun and Kim, Young Min},
     title     = {LDL: Line Distance Functions for Panoramic Localization},

@@ -14,7 +14,7 @@ Pretraining the motion kinematics from a large-scale dataset, and utilizing them
 
 [Download paper here](https://openaccess.thecvf.com/content/ICCV2023/html/Jang_Dynamic_Mesh_Recovery_from_Partial_Point_Cloud_Sequence_ICCV_2023_paper.html)
 
-```
+```bibtex
 @InProceedings{Jang_2023_ICCV,
     author    = {Jang, Hojun and Kim, Minkwan and Bae, Jinseok and Kim, Young Min},
     title     = {Dynamic Mesh Recovery from Partial Point Cloud Sequence},
