@@ -59,5 +59,8 @@
   -->
   {% if post.author and post.venue and post.date %}
     <small><p>{{ post.author }}<br>{{ post.venue }}, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p><br></small>
+  {% elsif post.citation %}
+    <small><p>{{ post.citation }}</p></small>
+  {% endif %}
 
 </div>
