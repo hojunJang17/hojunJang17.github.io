@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-10-10
 venue: 'European Conference on Computer Vision (ECCV)'
 paperurl: ''
-citation: 'Junho Kim, <b>Hojun Jang</b>, Changwoon Choi, and Young Min Kim, CPO: Change Robust Panorama to Point Cloud Localization, in <i>European Conference on Computer Vision</i>, 2022.'
+citation: 'Junho Kim, <b>Hojun Jang</b>, Changwoon Choi, and Young Min Kim, CPO: Change Robust Panorama to Point Cloud Localization, in <i>Proceedings of the European Conference on Computer Vision</i>, 2022.'
 author: 'Junho Kim, <b>Hojun Jang</b>, Changwoon Choi, and Young Min Kim'
 teaser: 'cpo.png'
 link: 'https://3d.snu.ac.kr/publications/CPO'
@@ -16,12 +16,12 @@ Constructing score maps in 2D, 3D that reflect regional color consistencies enab
 [Download paper here](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/1567_ECCV_2022_paper.php)
 
 ```bibtex
-@inproceedings{kim2022cpo,
-    title={CPO: Change-Robust Panorama to Point Cloud Localization},
-    author={Kim, Junho and Jang, Hojun 
-            and Choi, Changwoon and Kim, Young Min},
-    booktitle={European Conference on Computer Vision},
-    year={2022},
-    organization={Springer}
+@InProceedings{Kim_2022_ECCV,
+    author    = {Kim, Junho and Jang, Hojun and Choi, Changwoon and Kim, Young Min},
+    title     = {CPO: Change Robust Panorama to Point Cloud Localization},
+    booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
+    month     = {October},
+    year      = {2022},
+    pages     = {176-192},
 }
 ```

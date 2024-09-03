@@ -58,9 +58,9 @@
   {% endif %}
   -->
   {% if post.author and post.venue and post.date and post.additional %}
-    <p><small>{{ post.author }}</small><br>{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}, {{ post.additional }}</p>
+    <p>{{ post.author }}<br>{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}, {{ post.additional }}</p>
   {% elsif post.author and post.venue and post.date %}
-    <small><p>{{ post.author }}<br>{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p></small>
+    <p>{{ post.author }}<br>{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
   {% elsif post.citation %}
     <small><p>{{ post.citation }}</p></small>
   {% endif %}
