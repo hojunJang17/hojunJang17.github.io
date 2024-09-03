@@ -1,7 +1,7 @@
 ---
 title: "CPO: Change Robust Panorama to Point Cloud Localization"
 collection: publications
-permalink: /publication/CPO
+# permalink: /publication/CPO
 excerpt: ''
 date: 2022-01-10
 venue: 'European Conference on Computer Vision (ECCV)'

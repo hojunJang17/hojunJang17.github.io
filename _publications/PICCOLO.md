@@ -1,7 +1,7 @@
 ---
 title: "PICCOLO: Point Cloud-Centric Omnidirectional Localization"
 collection: publications
-permalink: /publication/PICCOLO
+# permalink: /publication/PICCOLO
 excerpt: ''
 date: 2021-01-01
 venue: 'International Conference on Computer Vision (ICCV)'

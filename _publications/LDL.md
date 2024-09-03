@@ -1,7 +1,7 @@
 ---
 title: "LDL: Line Distance Functions for Panoramic Localization"
 collection: publications
-permalink: /publication/LDL
+# permalink: /publication/LDL
 excerpt: ''
 date: 2023-10-05
 venue: 'International Conference on Computer Vision (ICCV)'
