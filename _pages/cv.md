@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-<table>
+<table cellpadding=0 cellspacing=0>
   <tr>
     <td align='left'> <ul><li>B.S. Electrical & Computer Engineering, Seoul National University</li></ul> </td>
     <td align='right'> 2017 - 2021 </td>
@@ -33,7 +33,7 @@ Publications
 
 Research experience
 ======
-<table>
+<table cellpadding=0 cellspacing=0>
   <tr>
     <td align='left'><ul>
       <li> LG Electronics Research Intern</li>
@@ -57,7 +57,7 @@ Research experience
 
 Honors and Awards
 ======
-<table>
+<table cellpadding=0 cellspacing=0>
   <tr>
     <td align='left'> <ul><li>Merit-based Scholarship (SNU)</li></ul> </td>
     <td align='right'> 2018 Spring </td>
@@ -74,7 +74,7 @@ Honors and Awards
 
 Teaching
 ======
-<table>
+<table cellpadding=0 cellspacing=0>
   <tr>
     <td align='left'> <ul><li>3D Computer Vision Track for AI Experts (Samsung) (T.A.)</li></ul> </td>
     <td align='right'> 2022 Summer </td>
