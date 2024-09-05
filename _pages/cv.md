@@ -17,15 +17,14 @@ Education
   * B.S. Electrical & Computer Engineering, Seoul National University
 * 2021 - Present
   * M.S. & Ph.D. Electrical & Computer Engineering, Seoul National University
-<table style="width:100%; border-collapse:collapse; border:none;">
-  <tr style="border:none;
-  ">
-    <td style="text-align: left"> * B.S. Electrical & Computer Engineering, Seoul National University </td>
-    <td style="text-align: right"> 2017 - 2021 </td>
+<table width='100%'>
+  <tr>
+    <td align='left'> * B.S. Electrical & Computer Engineering, Seoul National University </td>
+    <td align='right'> 2017 - 2021 </td>
   </tr>
-  <tr style="border:none;">
-    <td style="text-align: left"> * M.S. & Ph. D. Electrical & Computer Engineering, Seoul National University </td>
-    <td style="text-align: right"> 2021 - present </td>
+  <tr>
+    <td align='left'> * M.S. & Ph. D. Electrical & Computer Engineering, Seoul National University </td>
+    <td align='right'> 2021 - present </td>
   </tr>
 </table>
 
