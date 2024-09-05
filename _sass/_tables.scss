@@ -40,15 +40,10 @@ tr, td, th {
 */
 
 table {
-  margin-bottom: 1em;
   width: 100%;
   font-family: $global-font-family;
   border-color: collapse;
   border: none;
-
-  & + table {
-    margin-top: 1em;
-  }
 }
 
 thead {
@@ -57,18 +52,16 @@ thead {
 }
 
 th {
-  padding: 0.5em;
   font-weight: bold;
   text-align: left;
   border-right: none;
 }
 
 td {
-  padding: 0.5em;
   border-bottom: none;
   border-right: none;
 }
 
 tr, td, th {
-  vertical-align: middle;
+  vertical-align: top;
 }

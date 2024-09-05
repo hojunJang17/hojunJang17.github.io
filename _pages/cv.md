@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-<table width='100%'>
+<table>
   <tr>
     <td align='left'> <ul><li>B.S. Electrical & Computer Engineering, Seoul National University</li></ul> </td>
     <td align='right'> 2017 - 2021 </td>
@@ -40,18 +40,53 @@ Research experience
 * Reviewer
   * AAAI, ACCV
 
+<table>
+  <tr>
+    <td align='left'><ul>
+      <li> LG Electronics Research Intern</li>
+      <ul>
+        <li>Automatic Korean Spacing using BERT</li>
+        <li>Contextual Language Data Augmentation using BERT</li>
+      </ul>
+    </ul></td>
+    <td align='right'> <ul><li> 2019 Summer</li></ul></td>
+  </tr>
+  <tr>
+    <td align='left'><ul>
+      <li>Reviewer</li>
+      <ul>
+        <li>AAAI, ACCV</li>
+    </ul></td>
+    <td align='right'></td>
+  </tr>
+</table>
+
 Honors and Awards
 ======
-* 2018 Spring
-  * Merit-based Scholarship (SNU)
-* 2019 - 2020
-  * Sinyang Cultral Foundation Scholarship (Full-Funding)
-* 2022 Fall
-  * University Outstanding T.A. Award
+<table>
+  <tr>
+    <td align='left'> <ul><li>Merit-based Scholarship (SNU)</li></ul> </td>
+    <td align='right'> 2018 Spring </td>
+  </tr>
+  <tr>
+    <td align='left'> <ul><li>Sinyang Cultural Foundation Scholarship (Full-Funding)</li></ul> </td>
+    <td align='right'> 2019 - 2020 </td>
+  </tr>
+  <tr>
+    <td align='left'> <ul><li>University Outstanding T.A. Award</li></ul> </td>
+    <td align='right'> 2022 Fall </td>
+  </tr>
+</table>
 
 Teaching
 ======
-* 2022 Summer
-  * 3D Computer Vision Track for AI Experts (Samsung) (T.A.)
-* 2022 Fall
-  * Linear Algebra for Electrical Systems (T.A.)
+<table>
+  <tr>
+    <td align='left'> <ul><li>3D Computer Vision Track for AI Experts (Samsung) (T.A.)</li></ul> </td>
+    <td align='right'> 2022 Summer </td>
+  </tr>
+  <tr>
+    <td align='left'> <ul><li>Linear Algebra for Electrical Systems</li></ul> </td>
+    <td align='right'> 2022 Fall </td>
+  </tr>
+</table>
