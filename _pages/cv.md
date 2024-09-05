@@ -13,19 +13,17 @@ redirect_from:
 
 Education
 ======
-* 2017 - 2021
-  * B.S. Electrical & Computer Engineering, Seoul National University
-* 2021 - Present
-  * M.S. & Ph.D. Electrical & Computer Engineering, Seoul National University
 <table width='100%'>
-  <tr>
-    <td align='left'> * B.S. Electrical & Computer Engineering, Seoul National University </td>
+  <ul>
+  <li><tr>
+    <td align='left'> B.S. Electrical & Computer Engineering, Seoul National University </td>
     <td align='right'> 2017 - 2021 </td>
-  </tr>
-  <tr>
-    <td align='left'> * M.S. & Ph. D. Electrical & Computer Engineering, Seoul National University </td>
+  </tr></li>
+  <li><tr>
+    <td align='left'> - M.S. & Ph. D. Electrical & Computer Engineering, Seoul National University </td>
     <td align='right'> 2021 - present </td>
-  </tr>
+  </tr></li>
+  </ul>
 </table>
 
 Publications
