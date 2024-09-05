@@ -14,16 +14,14 @@ redirect_from:
 Education
 ======
 <table width='100%'>
-  <ul>
-  <li><tr>
-    <td align='left'> B.S. Electrical & Computer Engineering, Seoul National University </td>
+  <tr>
+    <td align='left'> <ul><li>B.S. Electrical & Computer Engineering, Seoul National University</li></ul> </td>
     <td align='right'> 2017 - 2021 </td>
-  </tr></li>
-  <li><tr>
-    <td align='left'> - M.S. & Ph. D. Electrical & Computer Engineering, Seoul National University </td>
+  </tr>
+  <tr>
+    <td align='left'> <ul><li>M.S. & Ph. D. Electrical & Computer Engineering, Seoul National University</li></ul> </td>
     <td align='right'> 2021 - present </td>
-  </tr></li>
-  </ul>
+  </tr>
 </table>
 
 Publications
