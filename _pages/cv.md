@@ -33,13 +33,6 @@ Publications
 
 Research experience
 ======
-* 2019 Summer
-  * Research Intern (LG Electronics)
-    * Automatic Korean Spacing using BERT
-    * Contextual Language Data Augmentation using BERT
-* Reviewer
-  * AAAI, ACCV
-
 <table>
   <tr>
     <td align='left'><ul>
@@ -49,13 +42,14 @@ Research experience
         <li>Contextual Language Data Augmentation using BERT</li>
       </ul>
     </ul></td>
-    <td align='right'> <ul><li> 2019 Summer</li></ul></td>
+    <td align='right'>2019 Summer</td>
   </tr>
   <tr>
     <td align='left'><ul>
       <li>Reviewer</li>
       <ul>
         <li>AAAI, ACCV</li>
+      </ul>
     </ul></td>
     <td align='right'></td>
   </tr>
