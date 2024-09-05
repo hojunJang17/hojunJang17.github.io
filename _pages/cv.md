@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-<table cellpadding=0 cellspacing=0>
+<table>
   <tr>
     <td align='left'> <ul><li>B.S. Electrical & Computer Engineering, Seoul National University</li></ul> </td>
     <td align='right'> 2017 - 2021 </td>
