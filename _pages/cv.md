@@ -13,11 +13,19 @@ redirect_from:
 
 Education
 ======
-* 2017 - 2021
-  * B.S. Electrical & Computer Engineering, Seoul National University
+  * B.S. Electrical & Computer Engineering, Seoul National University <p style='text-align: right; display: inline'> 2017 - 2021 </p>
 * 2021 - Present
   * M.S. & Ph.D. Electrical & Computer Engineering, Seoul National University
-
+<table width="100%" border-collapse='collapse' border='none'>
+  <tr>
+    <td style="text-align: left"> * B.S. Electrical & Computer Engineering, Seoul National University </td>
+    <td style="text-align: right"> 2017 - 2021 </td>
+  </tr>
+  <tr>
+    <td style="text-align: left"> * M.S. & Ph. D. Electrical & Computer Engineering, Seoul National University </td>
+    <td style="text-align: right"> 2021 - present </td>
+  </tr>
+</table>
 
 Publications
 ======
@@ -26,12 +34,14 @@ Publications
   {% endfor %}</ul>
 
 
-Work experience
+Research experience
 ======
 * 2019 Summer
   * Research Intern (LG Electronics)
     * Automatic Korean Spacing using BERT
     * Contextual Language Data Augmentation using BERT
+* Reviewer
+  * AAAI, ACCV
 
 Honors and Awards
 ======
