@@ -15,10 +15,9 @@ I really enjoy exploring challenging problems about human motion and interaction
 ## News
 ### Sep 2024
 * One paper is accepted to WACV 2025.
-<a/>
+
 ### Jul 2023
 * One paper is accepted to ICCV 2023.
-<a/>
+
 ### Mar 2021
 * Joined SNU [3DV lab](https://3d.snu.ac.kr).
-<a/>
