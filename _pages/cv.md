@@ -23,6 +23,7 @@ Education
     <td align='right'> 2021 - present </td>
   </tr>
 </table>
+<br />
 
 Publications
 ======
@@ -30,11 +31,14 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+<br/>
+
 Patents
 ======
 - Method, device, and computer-readable medium for colormetry considering external environment (KR10-2596914).
 - Method, device, and computer-readable medium for deriving colormetry reference color (KR10-2604699).
 
+<br/>
 
 Research experience
 ======
@@ -60,6 +64,8 @@ Research experience
   </tr>
 </table>
 
+<br/>
+
 Honors and Awards
 ======
 <table cellpadding=0 cellspacing=0>
@@ -72,10 +78,12 @@ Honors and Awards
     <td align='right'> 2019 - 2020</td>
   </tr>
   <tr>
-    <td align='left'>University Outstanding T.A. Award< </td>
+    <td align='left'>University Outstanding T.A. Award </td>
     <td align='right'> Fall, 2022</td>
   </tr>
 </table>
+
+<br/>
 
 Teaching
 ======
