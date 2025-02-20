@@ -16,11 +16,11 @@ Education
 <table>
   <tr>
     <td align='left'> <ul><li>B.S. Electrical & Computer Engineering, Seoul National University</li></ul> </td>
-    <td align='right'> 2017 - 2021 </td>
+    <td align='right'> 2017 - 2021 <ul></ul></td>
   </tr>
   <tr>
     <td align='left'> <ul><li>M.S. & Ph. D. Electrical & Computer Engineering, Seoul National University</li></ul> </td>
-    <td align='right'> 2021 - present </td>
+    <td align='right'> 2021 - present <ul></ul> </td>
   </tr>
 </table>
 
@@ -29,6 +29,11 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Patents
+======
+1. Method, device, and computer-readable medium for colormetry considering external environment (KR10-2596914).
+2. Method, device, and computer-readable medium for deriving colormetry reference color (KR10-2604699).
 
 
 Research experience
@@ -42,13 +47,13 @@ Research experience
         <li>Contextual Language Data Augmentation using BERT</li>
       </ul>
     </ul></td>
-    <td align='right'>2019 Summer</td>
+    <td align='right'>2019 Summer <ul></ul></td>
   </tr>
   <tr>
     <td align='left'><ul>
       <li>Reviewer</li>
       <ul>
-        <li>AAAI, ACCV</li>
+        <li>CVPR, AAAI, ACCV</li>
       </ul>
     </ul></td>
     <td align='right'></td>
@@ -60,15 +65,15 @@ Honors and Awards
 <table cellpadding=0 cellspacing=0>
   <tr>
     <td align='left'> <ul><li>Merit-based Scholarship (SNU)</li></ul> </td>
-    <td align='right'> 2018 Spring </td>
+    <td align='right'> 2018 Spring <ul></ul></td>
   </tr>
   <tr>
     <td align='left'> <ul><li>Sinyang Cultural Foundation Scholarship (Full-Funding)</li></ul> </td>
-    <td align='right'> 2019 - 2020 </td>
+    <td align='right'> 2019 - 2020 <ul></ul></td>
   </tr>
   <tr>
     <td align='left'> <ul><li>University Outstanding T.A. Award</li></ul> </td>
-    <td align='right'> 2022 Fall </td>
+    <td align='right'> 2022 Fall <ul></ul></td>
   </tr>
 </table>
 
@@ -77,10 +82,10 @@ Teaching
 <table cellpadding=0 cellspacing=0>
   <tr>
     <td align='left'> <ul><li>3D Computer Vision Track for AI Experts (Samsung) (T.A.)</li></ul> </td>
-    <td align='right'> 2022 Summer </td>
+    <td align='right'> 2022 Summer <ul></ul></td>
   </tr>
   <tr>
     <td align='left'> <ul><li>Linear Algebra for Electrical Systems</li></ul> </td>
-    <td align='right'> 2022 Fall </td>
+    <td align='right'> 2022 Fall <ul></ul></td>
   </tr>
 </table>
