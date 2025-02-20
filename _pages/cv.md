@@ -13,14 +13,14 @@ redirect_from:
 
 Education
 ======
-<table>
+<table cellpadding=0 cellspacing=0>
   <tr>
-    <td align='left'> <ul><li>B.S. Electrical & Computer Engineering, Seoul National University</li></ul> </td>
-    <td align='right'> 2017 - 2021 <ul></ul></td>
+    <td align='left'> B.S. Electrical & Computer Engineering, Seoul National University </td>
+    <td align='right'> 2017 - 2021</td>
   </tr>
   <tr>
-    <td align='left'> <ul><li>M.S. & Ph. D. Electrical & Computer Engineering, Seoul National University</li></ul> </td>
-    <td align='right'> 2021 - present <ul></ul> </td>
+    <td align='left'> M.S. & Ph. D. Electrical & Computer Engineering, Seoul National University </td>
+    <td align='right'> 2021 - present </td>
   </tr>
 </table>
 
@@ -32,30 +32,30 @@ Publications
 
 Patents
 ======
-1. Method, device, and computer-readable medium for colormetry considering external environment (KR10-2596914).
-2. Method, device, and computer-readable medium for deriving colormetry reference color (KR10-2604699).
+- Method, device, and computer-readable medium for colormetry considering external environment (KR10-2596914).
+- Method, device, and computer-readable medium for deriving colormetry reference color (KR10-2604699).
 
 
 Research experience
 ======
 <table cellpadding=0 cellspacing=0>
   <tr>
-    <td align='left'><ul>
-      <li> LG Electronics Research Intern</li>
+    <td align='left'>
+      LG Electronics Research Intern
       <ul>
         <li>Automatic Korean Spacing using BERT</li>
         <li>Contextual Language Data Augmentation using BERT</li>
       </ul>
-    </ul></td>
-    <td align='right'>2019 Summer <ul></ul></td>
+    </td>
+    <td align='right'>Summer, 2019</td>
   </tr>
   <tr>
-    <td align='left'><ul>
-      <li>Reviewer</li>
+    <td align='left'>
+      Reviewer
       <ul>
         <li>CVPR, AAAI, ACCV</li>
       </ul>
-    </ul></td>
+    </td>
     <td align='right'></td>
   </tr>
 </table>
@@ -64,16 +64,16 @@ Honors and Awards
 ======
 <table cellpadding=0 cellspacing=0>
   <tr>
-    <td align='left'> <ul><li>Merit-based Scholarship (SNU)</li></ul> </td>
-    <td align='right'> 2018 Spring <ul></ul></td>
+    <td align='left'> Merit-based Scholarship (SNU)</td>
+    <td align='right'> Spring, 2018</td>
   </tr>
   <tr>
-    <td align='left'> <ul><li>Sinyang Cultural Foundation Scholarship (Full-Funding)</li></ul> </td>
-    <td align='right'> 2019 - 2020 <ul></ul></td>
+    <td align='left'>Sinyang Cultural Foundation Scholarship (Full-Funding)</td>
+    <td align='right'> 2019 - 2020</td>
   </tr>
   <tr>
-    <td align='left'> <ul><li>University Outstanding T.A. Award</li></ul> </td>
-    <td align='right'> 2022 Fall <ul></ul></td>
+    <td align='left'>University Outstanding T.A. Award< </td>
+    <td align='right'> Fall, 2022</td>
   </tr>
 </table>
 
@@ -81,11 +81,11 @@ Teaching
 ======
 <table cellpadding=0 cellspacing=0>
   <tr>
-    <td align='left'> <ul><li>3D Computer Vision Track for AI Experts (Samsung) (T.A.)</li></ul> </td>
-    <td align='right'> 2022 Summer <ul></ul></td>
+    <td align='left'> 3D Computer Vision Track for AI Experts (Samsung) (T.A.)</td>
+    <td align='right'> Summer, 2022 </td>
   </tr>
   <tr>
-    <td align='left'> <ul><li>Linear Algebra for Electrical Systems</li></ul> </td>
-    <td align='right'> 2022 Fall <ul></ul></td>
+    <td align='left'> Linear Algebra for Electrical Systems</td>
+    <td align='right'> Fall, 2022</td>
   </tr>
 </table>
