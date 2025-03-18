@@ -93,7 +93,7 @@ Teaching
     <td align='right'> Summer, 2022 </td>
   </tr>
   <tr>
-    <td align='left'> Linear Algebra for Electrical Systems</td>
+    <td align='left'> Linear Algebra for Electrical Systems (T.A.) </td>
     <td align='right'> Fall, 2022</td>
   </tr>
 </table>
