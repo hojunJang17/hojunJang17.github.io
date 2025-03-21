@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-10-10
 venue: 'European Conference on Computer Vision (ECCV)'
 paperurl: ''
-citation: 'Junho Kim, <b>Hojun Jang</b>, Changwoon Choi, and Young Min Kim, CPO: Change Robust Panorama to Point Cloud Localization, in <i>Proceedings of the European Conference on Computer Vision</i>, 2022.'
+citation: 'Junho Kim, <b>Hojun Jang</b>, Changwoon Choi, and Young Min Kim, CPO: Change Robust Panorama to Point Cloud Localization, in <i>Proceedings of the European Conference on Computer Vision (ECCV)</i>, 2022.'
 author: 'Junho Kim, <b>Hojun Jang</b>, Changwoon Choi, and Young Min Kim'
 teaser: 'cpo.png'
 link: 'https://3d.snu.ac.kr/publications/CPO'
