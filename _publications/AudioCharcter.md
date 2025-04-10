@@ -12,4 +12,13 @@ teaser: 'AudioCharacter.png'
 ---
 Audio signals provide valuable information for locomotion tasks, synchronizing the footsteps.
 
-Paper not ready yet.
+[Paper not ready yet]()
+
+```bibtex
+@inproceedings{jang2025egs,
+  title = {Audio-aided Character Control for Inertial Measurement Tracking},
+  author = {Jang, Hojun and Bae, Jinseok and Kim, Young Min},
+  booktitle = {Eurographics 2025 - Short Papers},
+  year = {2025},
+}
+```
