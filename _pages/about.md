@@ -15,6 +15,7 @@ I really enjoy exploring challenging problems about human motion and interaction
 ## News
 ### Apr. 2025
 * One paper is accepted to Eurographics 2025 short paper.
+
 ### Sep. 2024
 * One paper is accepted to WACV 2025.
 

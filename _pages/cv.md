@@ -11,6 +11,8 @@ redirect_from:
 [Download PDF](https://drive.google.com/file/d/1cYrso-3yTI4zXRE-fMBS-h9wXz7oDSxL/view?usp=sharing)
 ======
 
+<br/>
+
 Education
 ======
 <table cellpadding=0 cellspacing=0>
