@@ -21,8 +21,8 @@ Education
     <td align='right'> 2017 - 2021</td>
   </tr>
   <tr>
-    <td align='left'> M.S. & Ph. D. Electrical & Computer Engineering, Seoul National University </td>
-    <td align='right'> 2021 - present </td>
+    <td align='left'> M.S. & Ph. D. Electrical & Computer Engineering, Seoul National University</td>
+    <td align='right'> 2021 - Feb. 2027 <br/>(expected)</td>
   </tr>
 </table>
 <br />
@@ -47,7 +47,7 @@ Research experience
 <table cellpadding=0 cellspacing=0>
   <tr>
     <td align='left'>
-      LG Electronics Research Intern
+      LG Electronics, Undergraduate Intern
       <ul>
         <li>Automatic Korean Spacing using BERT</li>
         <li>Contextual Language Data Augmentation using BERT</li>
