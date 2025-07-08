@@ -21,7 +21,7 @@ Education
     <td align='right'> 2017 - 2021</td>
   </tr>
   <tr>
-    <td align='left'> M.S. & Ph. D. Electrical & Computer Engineering, Seoul National University</td>
+    <td align='left'> M.S. & Ph.D. Electrical & Computer Engineering, Seoul National University</td>
     <td align='right'> 2021 - Feb. 2027 <br/>(expected)</td>
   </tr>
 </table>
@@ -57,9 +57,16 @@ Research experience
   </tr>
   <tr>
     <td align='left'>
-      Reviewer
+      Conference Reviewer
       <ul>
         <li>CVPR, AAAI, ACCV</li>
+      </ul>
+    </td>
+    <td align='right'></td>
+    <td align='left'>
+      Journal Reviewer
+      <ul>
+        <li>IEEE Trans. Multimedia</li>
       </ul>
     </td>
     <td align='right'></td>
