@@ -63,6 +63,8 @@ Research experience
       </ul>
     </td>
     <td align='right'></td>
+  </tr>
+  <tr>
     <td align='left'>
       Journal Reviewer
       <ul>
