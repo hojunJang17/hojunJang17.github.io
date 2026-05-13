@@ -17,12 +17,12 @@ Education
 ======
 <table cellpadding=0 cellspacing=0>
   <tr>
-    <td align='left'> B.S. Electrical & Computer Engineering, Seoul National University </td>
-    <td align='right'> 2017 - 2021</td>
+    <td align='left'> BS Electrical & Computer Engineering, Seoul National University </td>
+    <td align='right'> Mar. 2017 - Feb. 2021</td>
   </tr>
   <tr>
-    <td align='left'> M.S. & Ph.D. Electrical & Computer Engineering, Seoul National University</td>
-    <td align='right'> 2021 - Feb. 2027 <br/>(expected)</td>
+    <td align='left'> MS & PhD Electrical & Computer Engineering, Seoul National University</td>
+    <td align='right'> Mar. 2021 - Feb. 2027 <br/>(expected)</td>
   </tr>
 </table>
 <br />
@@ -53,13 +53,22 @@ Research experience
         <li>Contextual Language Data Augmentation using BERT</li>
       </ul>
     </td>
-    <td align='right'>Summer, 2019</td>
+    <td align='right'>Jul. - Aug. 2019</td>
+  </tr>
+  <tr>
+    <td align='left'>
+      Naver Labs Europe, PhD Intern
+      <ul>
+        <li>Multi-Person Motion Generation</li>
+      </ul>
+    </td>
+    <td align='right'>May. - Oct. 2026</td>
   </tr>
   <tr>
     <td align='left'>
       Conference Reviewer
       <ul>
-        <li>CVPR, AAAI, ACCV</li>
+        <li>CVPR, AAAI, ECCV, ACCV, Eurographics</li>
       </ul>
     </td>
     <td align='right'></td>
