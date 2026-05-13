@@ -12,7 +12,11 @@ I'm a Ph.D. student at Seoul National University, fortunate to be under guidance
 My primary research focus heads to **Human Motion** and diverse **Motion Sensors**.
 I really enjoy exploring challenging problems about human motion and interactions.
 
+
 ## News
+### May. 2026
+* I am joining [Naver Labs Europe](https://europe.naverlabs.com) 3D Humans Team as PhD Intern.
+
 ### Apr. 2025
 * One paper is accepted to Eurographics 2025 short paper.
 
