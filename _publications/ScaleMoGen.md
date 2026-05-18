@@ -6,8 +6,8 @@ excerpt: ''
 date: 2026-05-12
 venue: 'arXiv preprint'
 paperurl: ''
-citation: 'Inwoo Hwang<sup>*</sup>, <b>Hojun Jang</b><sup>*</sup>, Bing Zhou, Jian Wang, Young Min Kim<sup>&dagger</sup>, and Chuan Guo<sup>&dagger</sup>, ScaleMoGen: Autoregressive Next-Scale Prediction for Human Motion Generation, in <i>arXiv preprint arXiv:2605.11704</i>, 2026.'
-author: 'Inwoo Hwang<sup>*</sup>, <b>Hojun Jang</b><sup>*</sup>, Bing Zhou, Jian Wang, Young Min Kim<sup>&dagger</sup>, and Chuan Guo<sup>&dagger</sup>'
+citation: 'Inwoo Hwang<sup>*</sup>, <b>Hojun Jang</b><sup>*</sup>, Bing Zhou, Jian Wang, Young Min Kim<sup>†</sup>, and Chuan Guo<sup>†</sup>, ScaleMoGen: Autoregressive Next-Scale Prediction for Human Motion Generation, in <i>arXiv preprint arXiv:2605.11704</i>, 2026.'
+author: 'Inwoo Hwang<sup>*</sup>, <b>Hojun Jang</b><sup>*</sup>, Bing Zhou, Jian Wang, Young Min Kim<sup>†</sup>, and Chuan Guo<sup>†</sup>'
 teaser: 'ScaleMoGen.gif'
 link: 'https://inwoohwang.me/ScaleMoGen/'
 ---
