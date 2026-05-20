@@ -64,5 +64,8 @@
   {% elsif post.citation %}
     <small><p>{{ post.citation }}</p></small>
   {% endif %}
+  {% if post.note %}
+    <small>{{ post.note }}</small>
+  {% endif %}
 
 </div>

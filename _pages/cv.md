@@ -32,8 +32,6 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  <small><sup>*</sup> Equal contribution &nbsp;&nbsp; <sup>†</sup> Co-corresponding author</small>
-
 <br/>
 
 Patents
@@ -48,7 +46,7 @@ Research experience
 <table cellpadding=0 cellspacing=0 style="width:100%">
   <tr>
     <td width="70px" align='center' valign='middle'>
-      <img src="/images/lg-logo.png" style="width:55px;"/>
+      <img src="/images/lg-logo.jpeg" style="width:55px;"/>
     </td>
     <td align='left'>
       <b>LG Electronics</b>, Undergraduate Intern
@@ -61,7 +59,7 @@ Research experience
   </tr>
   <tr>
     <td width="70px" align='center' valign='middle'>
-      <img src="/images/naver-labs-logo.png" style="width:55px;"/>
+      <img src="/images/naver-labs-logo.jpeg" style="width:55px;"/>
     </td>
     <td align='left'>
       <b>NAVER LABS Europe</b>, PhD Intern
@@ -77,8 +75,24 @@ Research experience
 
 Academic Activities
 ======
-- Conference Reviewer: CVPR, AAAI, ECCV, ACCV, Eurographics
-- Journal Reviewer: IEEE Trans. Multimedia
+<table cellpadding=0 cellspacing=0>
+  <tr>
+    <td align='left'>
+      Conference Reviewer
+      <ul>
+        <li>CVPR, AAAI, ECCV, ACCV, Eurographics</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align='left'>
+      Journal Reviewer
+      <ul>
+        <li>IEEE Trans. Multimedia</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
