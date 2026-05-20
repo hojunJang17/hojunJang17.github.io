@@ -32,6 +32,7 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  <small><sup>*</sup> Equal contribution &nbsp;&nbsp; <sup>†</sup> Co-corresponding author</small>
 
 <br/>
 
@@ -44,45 +45,40 @@ Patents
 
 Research experience
 ======
-<table cellpadding=0 cellspacing=0>
+<table cellpadding=0 cellspacing=0 style="width:100%">
   <tr>
+    <td width="70px" align='center' valign='middle'>
+      <img src="/images/lg-logo.png" style="width:55px;"/>
+    </td>
     <td align='left'>
-      LG Electronics, Undergraduate Intern
+      <b>LG Electronics</b>, Undergraduate Intern
       <ul>
         <li>Automatic Korean Spacing using BERT</li>
         <li>Contextual Language Data Augmentation using BERT</li>
       </ul>
     </td>
-    <td align='right'>Jul - Aug, 2019</td>
+    <td align='right' valign='top' style="white-space:nowrap">Jul - Aug, 2019</td>
   </tr>
   <tr>
+    <td width="70px" align='center' valign='middle'>
+      <img src="/images/naver-labs-logo.png" style="width:55px;"/>
+    </td>
     <td align='left'>
-      NAVER LABS Europe, PhD Intern
+      <b>NAVER LABS Europe</b>, PhD Intern
       <ul>
         <li>Multi-Person Motion Generation</li>
       </ul>
     </td>
-    <td align='right'>May - Oct, 2026</td>
-  </tr>
-  <tr>
-    <td align='left'>
-      Conference Reviewer
-      <ul>
-        <li>CVPR, AAAI, ECCV, ACCV, Eurographics</li>
-      </ul>
-    </td>
-    <td align='right'></td>
-  </tr>
-  <tr>
-    <td align='left'>
-      Journal Reviewer
-      <ul>
-        <li>IEEE Trans. Multimedia</li>
-      </ul>
-    </td>
-    <td align='right'></td>
+    <td align='right' valign='top' style="white-space:nowrap">May - Oct, 2026</td>
   </tr>
 </table>
+
+<br/>
+
+Academic Activities
+======
+- Conference Reviewer: CVPR, AAAI, ECCV, ACCV, Eurographics
+- Journal Reviewer: IEEE Trans. Multimedia
 
 <br/>
 
