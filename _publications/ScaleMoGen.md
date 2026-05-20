@@ -9,7 +9,7 @@ paperurl: ''
 citation: 'Inwoo Hwang<sup>*</sup>, <b>Hojun Jang</b><sup>*</sup>, Bing Zhou, Jian Wang, Young Min Kim<sup>†</sup>, and Chuan Guo<sup>†</sup>, ScaleMoGen: Autoregressive Next-Scale Prediction for Human Motion Generation, in <i>arXiv preprint arXiv:2605.11704</i>, 2026.'
 author: 'Inwoo Hwang<sup>*</sup>, <b>Hojun Jang</b><sup>*</sup>, Bing Zhou, Jian Wang, Young Min Kim<sup>†</sup>, and Chuan Guo<sup>†</sup>'
 teaser: 'ScaleMoGen.gif'
-note: '<sup>*</sup> Equal contribution &nbsp;&nbsp; <sup>†</sup> Co-corresponding author'
+note: '* Equal contribution &nbsp;&nbsp; &dagger; Co-corresponding author'
 link: 'https://inwoohwang.me/ScaleMoGen/'
 ---
 A next-scale token map prediction framework with a multi-scale skeletal-temporal hierarchy for human motion generation, enabling zero-shot motion editing.
