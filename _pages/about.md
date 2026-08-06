@@ -15,10 +15,15 @@ I am particularly interested in learning **general-purpose motion representation
 
 ## News
 
+<b>Jun. 2026</b>
+<ul>
+  <li><a href="https://inwoohwang.me/ScaleMoGen/">ScaleMoGen</a> is accepted to ECCV 2026</li>
+</ul>
+
 <b>May. 2026</b>
 <ul>
   <li>I am joining <a href="https://europe.naverlabs.com">Naver Labs Europe</a> 3D Humans Team as PhD Intern.</li>
-  <li><a href="https://inwoohwang.me/ScaleMoGen/">ScaleMoGen</a> and <a href="https://inwoohwang.me/EgoForce/">EgoForce</a> are released on arXiv.</li>
+  <li><a href="https://inwoohwang.me/EgoForce/">EgoForce</a> is released on arXiv.</li>
 </ul>
 
 <b>Apr. 2025</b>

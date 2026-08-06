@@ -3,7 +3,7 @@ title: "EgoForce: Robust Online Egocentric Motion Reconstruction via Diffusion F
 collection: publications
 permalink: /publications/EgoForce
 excerpt: ''
-date: 2026-05-11
+date: 2026-12-11
 venue: 'arXiv preprint'
 paperurl: ''
 citation: 'Inwoo Hwang, Donggeun Lim, <b>Hojun Jang</b>, and Young Min Kim, EgoForce: Robust Online Egocentric Motion Reconstruction via Diffusion Forcing, in <i>arXiv preprint arXiv:2605.13041</i>, 2026.'

@@ -17,11 +17,11 @@ Education
 ======
 <table cellpadding=0 cellspacing=0>
   <tr>
-    <td align='left'> BS Electrical & Computer Engineering, Seoul National University </td>
+    <td align='left'> BS, Electrical & Computer Engineering, Seoul National University </td>
     <td align='right'> Mar, 2017 - Feb, 2021</td>
   </tr>
   <tr>
-    <td align='left'> MS & PhD Electrical & Computer Engineering, Seoul National University</td>
+    <td align='left'> MS & PhD, Electrical & Computer Engineering, Seoul National University</td>
     <td align='right'> Mar, 2021 - Feb, 2027 <br/>(expected)</td>
   </tr>
 </table>
@@ -38,6 +38,7 @@ Patents
 ======
 - Method, device, and computer-readable medium for colormetry considering external environment (KR10-2596914).
 - Method, device, and computer-readable medium for deriving colormetry reference color (KR10-2604699).
+- Method and apparatus for estimating camera pose from point clouds using panoramic images (KR10-296785).
 
 <br/>
 
@@ -80,7 +81,7 @@ Academic Activities
     <td align='left'>
       Conference Reviewer
       <ul>
-        <li>CVPR, AAAI, ECCV, ACCV, Eurographics</li>
+        <li>CVPR, AAAI, ECCV, ACCV, BMVC, Eurographics</li>
       </ul>
     </td>
   </tr>

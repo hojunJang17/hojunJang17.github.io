@@ -3,10 +3,10 @@ title: "ScaleMoGen: Autoregressive Next-Scale Prediction for Human Motion Genera
 collection: publications
 permalink: /publications/ScaleMoGen
 excerpt: ''
-date: 2026-05-12
-venue: 'arXiv preprint'
+date: 2026-09-12
+venue: 'European Conference on Computer Vision (ECCV)'
 paperurl: ''
-citation: 'Inwoo Hwang*, <b>Hojun Jang</b>*, Bing Zhou, Jian Wang, Young Min Kim†, and Chuan Guo†, ScaleMoGen: Autoregressive Next-Scale Prediction for Human Motion Generation, in <i>arXiv preprint arXiv:2605.11704</i>, 2026.'
+citation: 'Inwoo Hwang*, <b>Hojun Jang</b>*, Bing Zhou, Jian Wang, Young Min Kim†, and Chuan Guo†, ScaleMoGen: Autoregressive Next-Scale Prediction for Human Motion Generation, in <i>Proceedings of the European Conference on Computer Vision (ECCV)</i>, 2026.'
 author: 'Inwoo Hwang*, <b>Hojun Jang</b>*, Bing Zhou, Jian Wang, Young Min Kim†, and Chuan Guo†'
 teaser: 'ScaleMoGen.gif'
 note: '* Equal contribution &nbsp;&nbsp; &dagger; Co-corresponding author'
