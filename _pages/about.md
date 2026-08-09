@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 I'm a Ph.D. student at Seoul National University, fortunate to be under the guidance of Professor [Young Min Kim](https://3d.snu.ac.kr/members/).
-My research focuses on **3D human motion** — spanning reconstruction from sparse or noisy sensor inputs (e.g., IMUs, egocentric cameras, partial point clouds) and generation from diverse conditioning signals (e.g., text, audio, or target keyframes).
-I am particularly interested in learning **general-purpose motion representations** that transfer across tasks such as pose estimation, motion generation, and motion inbetweening.
+My research focuses on **3D human motion** and **character control**, including motion reconstruction from sparse observations, generative motion modeling, and physics-based character control.
+I am particularly interested in building **controllable and physically plausible motion models** that can eventually enable characters to interact naturally with other agents and their environments.
 
 
 ## News
@@ -31,12 +31,12 @@ I am particularly interested in learning **general-purpose motion representation
   <li><a href="https://hojunjang17.github.io/AudioCharacter/">Audio-aided Character Control</a> is accepted to Eurographics 2025 short paper.</li>
 </ul>
 
+<div id="news-more" style="display:none">
+
 <b>Sep. 2024</b>
 <ul>
   <li><a href="https://hojunjang17.github.io/ReMP/">ReMP</a> is accepted to WACV 2025.</li>
 </ul>
-
-<div id="news-more" style="display:none">
 
 <b>Jul. 2023</b>
 <ul>
@@ -51,3 +51,41 @@ I am particularly interested in learning **general-purpose motion representation
 </div>
 
 <a href="javascript:void(0)" id="news-toggle" onclick="(function(){var m=document.getElementById('news-more'),b=document.getElementById('news-toggle');if(m.style.display==='none'){m.style.display='block';b.textContent='Hide ▲';}else{m.style.display='none';b.textContent='Show ▼';}})()">Show ▼</a>
+
+<br>
+
+## Selected Publications
+
+<div style="display: flex; flex-direction: row; align-items: center; margin-bottom: 30px;">
+  <div style="flex: 0 0 40%; margin-right: 20px;">
+    <img src="/images/ScaleMoGen.gif" alt="ScaleMoGen Teaser" style="width: 100%; border-radius: 8px;">
+  </div>
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0; margin-bottom: 10px;"><a href="https://inwoohwang.me/ScaleMoGen/">ScaleMoGen: Autoregressive Next-Scale Prediction for Human Motion Generation</a></h3>
+    <p style="margin-bottom: 5px;">Inwoo Hwang*, <b>Hojun Jang</b>*, Bing Zhou, Jian Wang, Young Min Kim&dagger;, and Chuan Guo&dagger;</p>
+    <p style="margin-bottom: 5px;"><i>European Conference on Computer Vision (ECCV), 2026</i></p>
+    <p style="margin-bottom: 0; font-size: 0.9em; color: gray;">* Equal contribution &nbsp;&nbsp; &dagger; Co-corresponding author</p>
+  </div>
+</div>
+
+<div style="display: flex; flex-direction: row; align-items: center; margin-bottom: 30px;">
+  <div style="flex: 0 0 40%; margin-right: 20px;">
+    <img src="/images/AudioCharacter.png" alt="Audio-aided Character Control Teaser" style="width: 100%; border-radius: 8px;">
+  </div>
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0; margin-bottom: 10px;"><a href="https://hojunjang17.github.io/AudioCharacter/">Audio-aided Character Control for Inertial Measurement Tracking</a></h3>
+    <p style="margin-bottom: 5px;"><b>Hojun Jang</b>, Jinseok Bae, and Young Min Kim</p>
+    <p style="margin-bottom: 0;"><i>European Association for Computer Graphics (Eurographics) short paper, 2025</i></p>
+  </div>
+</div>
+
+<div style="display: flex; flex-direction: row; align-items: center; margin-bottom: 30px;">
+  <div style="flex: 0 0 40%; margin-right: 20px;">
+    <img src="/images/ReMP.gif" alt="ReMP Teaser" style="width: 100%; border-radius: 8px;">
+  </div>
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0; margin-bottom: 10px;"><a href="https://hojunjang17.github.io/ReMP/">ReMP: Reusable Motion Prior for Multi-domain 3D Human Pose Estimation and Motion Inbetweening</a></h3>
+    <p style="margin-bottom: 5px;"><b>Hojun Jang</b> and Young Min Kim</p>
+    <p style="margin-bottom: 0;"><i>Winter Conference on Applications of Computer Vision (WACV), 2025</i></p>
+  </div>
+</div>
