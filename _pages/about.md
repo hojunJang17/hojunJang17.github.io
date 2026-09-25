@@ -15,6 +15,11 @@ I am particularly interested in building **controllable and physically plausible
 
 ## News
 
+<b>Sep. 2026</b>
+<ul>
+  <li><a href="https://inwoohwang.me/EgoForce/">Egoforce</a> is accepted to NeurIPS 2026</li>
+</ul>
+
 <b>Jun. 2026</b>
 <ul>
   <li><a href="https://inwoohwang.me/ScaleMoGen/">ScaleMoGen</a> is accepted to ECCV 2026</li>
@@ -23,7 +28,6 @@ I am particularly interested in building **controllable and physically plausible
 <b>May. 2026</b>
 <ul>
   <li>I am joining <a href="https://europe.naverlabs.com">Naver Labs Europe</a> 3D Humans Team as PhD Intern.</li>
-  <li><a href="https://inwoohwang.me/EgoForce/">EgoForce</a> is released on arXiv.</li>
 </ul>
 
 <b>Apr. 2025</b>

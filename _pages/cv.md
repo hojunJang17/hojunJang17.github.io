@@ -81,7 +81,7 @@ Academic Activities
     <td align='left'>
       Conference Reviewer
       <ul>
-        <li>CVPR, AAAI, ECCV, ACCV, BMVC, Eurographics</li>
+        <li>CVPR, AAAI, ECCV, WACV, ACCV, BMVC, Eurographics</li>
       </ul>
     </td>
   </tr>
