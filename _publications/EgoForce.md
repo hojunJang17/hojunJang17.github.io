@@ -4,9 +4,9 @@ collection: publications
 permalink: /publications/EgoForce
 excerpt: ''
 date: 2026-12-11
-venue: 'Advances in Neural Information Processing Systems'
+venue: 'Advances in Neural Information Processing Systems (NeurIPS)'
 paperurl: ''
-citation: 'Inwoo Hwang, Donggeun Lim, <b>Hojun Jang</b>, and Young Min Kim, EgoForce: Robust Online Egocentric Motion Reconstruction via Diffusion Forcing, in <i>Advances in Neural Information Processing Systems</i>, 2026.'
+citation: 'Inwoo Hwang, Donggeun Lim, <b>Hojun Jang</b>, and Young Min Kim, EgoForce: Robust Online Egocentric Motion Reconstruction via Diffusion Forcing, in <i>Advances in Neural Information Processing Systems (NeurIPS)</i>, 2026.'
 author: 'Inwoo Hwang, Donggeun Lim, <b>Hojun Jang</b>, and Young Min Kim'
 teaser: 'EgoForce.gif'
 link: 'https://inwoohwang.me/EgoForce/'
