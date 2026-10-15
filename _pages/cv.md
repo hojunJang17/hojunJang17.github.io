@@ -110,7 +110,11 @@ Honors and Awards
   </tr>
   <tr>
     <td align='left'>University Outstanding T.A. Award </td>
-    <td align='right'> Fall, 2022</td>
+    <td align='right'> Feb, 2023</td>
+  </tr>
+  <tr>
+    <td align='left'>NAVER LABS Europe Intern Day Distinguished Award </td>
+    <td align='right'> Oct, 2026</td>
   </tr>
 </table>
 
@@ -121,10 +125,10 @@ Teaching
 <table cellpadding=0 cellspacing=0>
   <tr>
     <td align='left'> 3D Computer Vision Track for AI Experts (Samsung) (T.A.)</td>
-    <td align='right'> Summer, 2022 </td>
+    <td align='right'> Jul, 2022 </td>
   </tr>
   <tr>
     <td align='left'> Linear Algebra for Electrical Systems (T.A.) </td>
-    <td align='right'> Fall, 2022</td>
+    <td align='right'> Sep - Dec, 2022</td>
   </tr>
 </table>

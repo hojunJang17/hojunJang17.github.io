@@ -15,6 +15,11 @@ I am particularly interested in building **controllable and physically plausible
 
 ## News
 
+<b>Oct. 2026</b>
+<ul>
+  <li><a href="https://hojunjang17.github.io/StepControl/">StepControl</a> is accepted to WACV 2027</li>
+</ul>
+
 <b>Sep. 2026</b>
 <ul>
   <li><a href="https://inwoohwang.me/EgoForce/">Egoforce</a> is accepted to NeurIPS 2026</li>
@@ -59,6 +64,17 @@ I am particularly interested in building **controllable and physically plausible
 <br>
 
 ## Selected Publications
+
+<div style="display: flex; flex-direction: row; align-items: center; margin-bottom: 30px;">
+  <div style="flex: 0 0 40%; margin-right: 20px;">
+    <img src="/images/StepControl.gif" alt="StepControl Teaser" style="width: 100%; border-radius: 8px;">
+  </div>
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0; margin-bottom: 10px;"><a href="https://hojunjang17.github.io/StepControl/">StepControl: Autoregressive Human Motion Generation from Foot Contact Schedules</a></h3>
+    <p style="margin-bottom: 5px;"><b>Hojun Jang</b>, Jinseok Bae, Donggeun Lim, Taesun Kim, Seungbin Jeong, Younghwan Lee, Yong Seok Kim, and Young Min Kim</p>
+    <p style="margin-bottom: 0;"><i>Winter Conference on Applications of Computer Vision (WACV), 2027</i></p>
+  </div>
+</div>
 
 <div style="display: flex; flex-direction: row; align-items: center; margin-bottom: 30px;">
   <div style="flex: 0 0 40%; margin-right: 20px;">
